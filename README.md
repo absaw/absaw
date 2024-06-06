@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+## Working on problems, to solve them, solutions, to improve them and, improvements, to refine them.
 <!--
 **absaw/absaw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

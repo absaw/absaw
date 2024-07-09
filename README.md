@@ -1,5 +1,10 @@
-### Hi there 👋
-## Working on problems, to solve them, solutions, to improve them and, improvements, to refine them.
+## 🔭 Understanding problems, to solve. 
+## Dealing with solutions, to improve. 
+## Working on improvements, to refine.
+
+- 📫 Feel free to reach out to collaborate
+
+- ⚡ Random Fun Fact: Although they're dubbed as 'man-eaters', tiger sharks rarely attack people, with just over 100 unprovoked attacks ever recorded.
 <!--
 **absaw/absaw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
